@@ -8,8 +8,15 @@
 
 #github-logo {
   width: 300px;
+  padding: 20px;
 }
 
 #landing-title {
   text-align: center;
+}
+
+#search-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
